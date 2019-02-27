@@ -1,0 +1,4 @@
+#Tue Feb 26 21:45:12 BRT 2019
+base.0=/home/leticia/AndroidStudioProjects/note_keeper_app/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
